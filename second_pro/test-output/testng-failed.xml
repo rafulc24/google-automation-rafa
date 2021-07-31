@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/Admin/IdeaProjects/first_pro(failed)">
+    <classes>
+      <class name="secondTentNG">
+        <methods>
+          <include name="testFaild"/>
+        </methods>
+      </class> <!-- secondTentNG -->
+    </classes>
+  </test> <!-- C:/Users/Admin/IdeaProjects/first_pro(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
